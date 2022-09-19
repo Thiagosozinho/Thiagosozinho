@@ -1,5 +1,5 @@
 - # Sobre mim
-- Olá, meu nome é @ThiagoHenrique.👀
+- **Olá, meu nome é @ThiagoHenrique.👀**
 - Meu email de contato é thiago.henrique.carneiro@escola.pr.gov.br
 - Estou interessado em aprender e programar novas linguagens.
 - Estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
